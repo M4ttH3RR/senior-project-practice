@@ -1,4 +1,6 @@
-Matthew Herriman 
-Computer Science
-Cybersecurity
-Networking fundamentals
+print("Senior Project Developer Profile")
+print()
+print("Name: Matthew Herriman")
+print("Major: Computer Science")
+print("Technology Interest: Cybersecurity")
+print("Skill Goal: Software Development")
